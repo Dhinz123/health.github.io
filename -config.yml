@@ -1,1 +1,12 @@
 
+theme: minima
+name: dhinz
+description: developer
+title: 
+author:
+description:
+footer-links:
+  email: 48dhinakar@gmail.com
+  github: https://github.com/Dhinz123/health.github.io
+url:
+permalink: /:title/
