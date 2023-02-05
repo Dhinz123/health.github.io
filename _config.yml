@@ -1,10 +1,10 @@
 
 theme: minima
-name: dhinz
-description: developer
+name: Digi-Health
+description: Helps to identify the problems
 title: 
 author:
-description:
+markdown: kramdown
 footer-links:
   email: 48dhinakar@gmail.com
   github: https://github.com/Dhinz123/health.github.io
