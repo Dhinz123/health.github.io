@@ -10,3 +10,5 @@ footer-links:
   github: https://github.com/Dhinz123/health.github.io
 url:
 permalink: /:title/
+plugins:
+  - jekyll-remote-theme
